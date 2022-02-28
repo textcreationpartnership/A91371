@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious &amp; seasonable warning unto all people occasioned by two most dangerous epistles to a late book of John Falldoe's, subscribed by Richard Baxter [and 24 others] brethren all ---- in iniquity ... whose slanders and lyes against the holy people called Quakers are hereby reproved / by C.P.</title>
+            <author>Pusey, Caleb, 1650?-1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91371</idno>
+            <idno type="STC">Wing P4250</idno>
+            <idno type="STC">ESTC R42571</idno>
+            <idno type="EEBO-CITATION">36282351</idno>
+            <idno type="OCLC">ocm 36282351</idno>
+            <idno type="VID">150180</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150180)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2235:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious &amp; seasonable warning unto all people occasioned by two most dangerous epistles to a late book of John Falldoe's, subscribed by Richard Baxter [and 24 others] brethren all ---- in iniquity ... whose slanders and lyes against the holy people called Quakers are hereby reproved / by C.P.</title>
+                  <author>Pusey, Caleb, 1650?-1727.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Quakers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:150180:1" rendition="simple:additions"/> A SERIOUS &amp; SEASONABLE WARNING UNTO All People: Occaſioned by two moſt Dangerous Epiſtles to a late BOOK of <hi>JOHN FALLDOE</hi>'S, Subſcribed by RICHARD BAXTER,</p>
+            <list>
+               <item>Tho. Manton,</item>
+               <item>Tho. Jacomb,</item>
+               <item>John Yates,</item>
+               <item>John Sheffield,</item>
+               <item>Ben. Needler,</item>
+               <item>Rob. Bragg,</item>
+               <item>A. Palmer,</item>
+               <item>Tho. Cole,</item>
+               <item>Tho. Dolittel,</item>
+               <item>Will. Cooper.</item>
+               <item>Will. Carſlake,</item>
+               <item>Th. Wadſworth,</item>
+               <item>Geor. Griffith,</item>
+               <item>Matth. Barker,</item>
+               <item>John Singleton,</item>
+               <item>Andr. Parſons,</item>
+               <item>Steeph. Ford,</item>
+               <item>Fran. Warham,</item>
+               <item>Rich. Mayo,</item>
+               <item>Tho. Gouge,</item>
+               <item>Will. Jenkins,</item>
+               <item>Tho. Watſon,</item>
+               <item>Sam. Smith<hi>:</hi>
+               </item>
+               <item>Will. Tutty.</item>
+            </list>
+            <p>
+               <hi>Brethren all—in Iniquity.</hi>
+            </p>
+            <q>
+               <l>Whoſe Bow is alway ready bent</l>
+               <l>With Quivers of Malice againſt the Innocent.</l>
+            </q>
+            <q>
+               <p>
+                  <hi>For loe the wicked bend their Bow, they make ready their Arrows upon the String, that they may privily Shoot at the <g ref="char:V">Ʋ</g>pright in heart,</hi>
+               </p>
+               <bibl>Pſalm. 11. 2.</bibl>
+            </q>
+            <p>Whoſe Slanders and Lyes againſt the Holy People called Quakers are hereby Reproved.</p>
+            <p>By <hi>C. P.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Theſe things have I written to you concerning thoſe that ſeduce you,</hi>
+               </p>
+               <bibl>1 John 2. 26.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>They are impudent Children and ſtiff hearted; but ſurely they will not hear, nei<g ref="char:EOLhyphen"/>ther indeed will they ceaſe; for they are a rebellious houſe; yet ſhall they know that there hath been a Prophet amongſt them.</hi>
+               </p>
+               <bibl>Ezek. 2. 4, 5.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1675.</p>
+            <pb facs="tcp:150180:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:150180:2"/>
+            <head>
+               <hi>To the People called,</hi> Anthony Palmers <hi>CHURCH.</hi>
+            </head>
+            <p>Mr Friends, my knowledge of you hath been long, about this time 20 years, my Love to you can never expire, being unfeigned: I heard of you firſt, at a place called <hi>London-houſe,</hi> and am conſtrained to remind you of that day: You then were a Re<g ref="char:EOLhyphen"/>proached Suffering People; and it was then a Reproach to go to your Meetings, ſeveral of you, in that day, being Impriſoned, for bearing a Teſtimony againſt the Sins of thoſe times, and in that day, you being humble and meek, the preſence of God was amongſt you, in ſo much as a Rumer of it went through the Nation, and you were viſited by many choice Spirited men, &amp; your heart, were melted by the powerful ſtrivings of Gods Spirit; <hi>Oh ye degenerated People, remember that Day:</hi> But you reſiſting the Holy Spirit, Pride and Lust, and Self-ſeeking gat up amongſt you; and then you defiled your ſelves, by touching with the Iniquities you had teſtified againſt; and then a Spirit of Strife and Diviſion entered you, and brake you to pieces, and ye went into Sects and Parties, one Party publickly declared againſt another, as <hi>Old Leaven purged out,</hi> and thus end<g ref="char:EOLhyphen"/>ed your Glory: and by this means were many honest hearted, that uprightly ſought the Lord amongſt you, ſcattered. Now it is not poſſible to utter the grief that was in my heart in that day, for I dearly loved you: And when the Lord brought that great Deſolati<g ref="char:EOLhyphen"/>on upon all profeſſing Intereſts, 1659. whereat even the whole world was amazed; then great was my expectation that by affliction, you would be turned to the Lord: and that accordingly, again his Pre<g ref="char:EOLhyphen"/>ſence would be found amongſt you: and you know what a noiſe you then made in your many days of Faſting &amp; Prayer, then in ſincerity ſeeking to be establiſht in Religious matters, expecting to be ſtrength<g ref="char:EOLhyphen"/>ned by a neerer fellowſhip with you, ſo as to abide in the tryals of that day, I ſought to be neerly related to you, and was admitted as one of your Members, and the Lord knoweth I cloſed with you, in
+<pb n="2" facs="tcp:150180:3"/> uprightneſs towards him; and true love to you; which pure unfeign<g ref="char:EOLhyphen"/>ed Love ſtill reſteth upon my heart unto you<g ref="char:punc">▪</g> And here I cannot forget, and it may be good for you to be minded of it, that at that time one of your Chiefest; to my great diſappointment, told me, in the hearing of ſeveral of you, that you were ſenſible, <hi>that the Pre<g ref="char:EOLhyphen"/>ſence of God was ſuſpended from you,</hi> endeavoring to ſatisfie me, that God doth often ſuſpend his preſence from his Church: I then anſwered, that if I found a want of the Lords Preſence, I alway charged it upon my ſelf as the cauſe of it. Now after ſome conſider<g ref="char:EOLhyphen"/>able time of tryal, I found you ſpake truth, to my very great diſtreſs finding that the preſence of the Lord was not amongſt you; and diſmal and dark was that day, when I came to ſee, that I ſought the Living amongſt the Dead. Now, <hi>Oh People,</hi> God Almighty, that ſcarcheth the heart, and tryeth the reins, knoweth that I am deep<g ref="char:EOLhyphen"/>ly ſenſible of your ſtate, who have only a name to live, but are dead, and in true love to you have mourned for you, and fervently deſi<g ref="char:EOLhyphen"/>red your Salvation, and indeed hoped well concerning you, until lately finding the name of your Teacher, <hi>A. Palmer,</hi> amongſt many more, to a Book publiſht by <hi>John Faldoe,</hi> as Approvers, deep ſor<g ref="char:EOLhyphen"/>row even ſeized upon me, that the Teacher of you, a People that for many years have loudly proclaimed to the world, <hi>That Love to all Saints is a Foundation Principle of your Fellowſhip:</hi> ſhould ſet his hand in a way of Recommendation to the world, of the ſaid book; to an Epistle, ſtufft with moſt deteſtable lies and ſlanders, of, and againſt a People, that by many years experience, I have found to be a holy People, walking in the fear of God blameleſs, and ſound in the faith of the Goſpel, whom by your aforeſaid Principle you ought to Love, and knowing them to be clear of thoſe foul things laid to their Charge by your ſaid Teacher, both as to Doctrine and Conver<g ref="char:EOLhyphen"/>ſation, I forthwith ſent your Teacher one of <hi>William Pens</hi> An<g ref="char:EOLhyphen"/>ſwers to him and his Brethren Moniters, And thus wrote to him.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <pb n="3" facs="tcp:150180:3"/>
+                        <opener>
+                           <salute>Anthony Palmer,</salute>
+                        </opener>
+                        <p>IT is ſo plain hereby proved, that thou art guilty of Lies and Slanders against Gods People, called Quakers, that he that Runs may Read it; and that thou art ſo guilty, I hereby charge upon thee, if thou art the <hi>A. Palmer</hi> there meant, as I believe thou art; and I ſend this, that thou mayſt ſee thy Error, which if thou wilt acknowledge, and ſend it me under thy hand, that thou doſt ſee and acknow<g ref="char:EOLhyphen"/>ledge thy Sin herein, I ſhall be right glad: other<g ref="char:EOLhyphen"/>wiſe, if in ſome ſhort time, I do not receive ſuch an account from thee, thou mayſt expect that I ſhall (in that Congregation, whom I knew, I judge, many years before thou didſt; and whoſe Souls Salvation I de<g ref="char:EOLhyphen"/>ſire) bear my Testimony againſt thee as a Slander<g ref="char:EOLhyphen"/>er, and Lyar, not fit for the Communion of ſuch, much leſs to be a Teacher of any People pretending to Chriſtianity.</p>
+                        <closer>
+                           <date>
+                              <hi>The</hi> 19th <hi>Day of the</hi> 10th <hi>Month.</hi> 74.</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="4" facs="tcp:150180:4"/> After waiting many days, having a great deſire to have heard of his eyes being open, to ſee his great Sin herein, as ſaith the Prophet, <hi>Amos</hi> 5. 12. <hi>I know your manifold Tranſgreſſions, and your mighty Sins, they afflict the Juſt:</hi> It was in my heart to clear my Conſcience publickly amongſt you; but my ex<g ref="char:EOLhyphen"/>pected Opportunitie being diſappointed by one of your Meeting, denying to inform me where you intended to be Aſſembled; it en<g ref="char:EOLhyphen"/>tered into my heart, to commit my Meſſage unto you, into writing: <hi>Oh People,</hi> In bowels of tender Love to you, I beſeech you to conſi<g ref="char:EOLhyphen"/>der the evil and danger of that Spirit, that ſlandereth and belieth the Innocent, as your Teacher hath herein done, and have a care I warn you, leaſt he begetteth the ſame Spirit in you. And in a Conſcientious diſcharge of my Duty to God and you, I hereby bear my Teſtimony againſt what your Teacher hath written, to be moſt deteſtable Slander, proceeding from the old curſed Enmity of the Serpents Seed againſt the Seed of the Woman: and I do in ſeriouſ<g ref="char:EOLhyphen"/>neſs of Spirit, hereby call upon you, to conſider of the ſtate of your Souls, and the ſad danger you are in, to be ſeduced by this ſort of men into that deteſtable Spirit, that hereby they have manifeſted to be in them: having long known you, and been of your number, I am the more concerned for you, and do beſeech you to examine your Condition, after ſo many years talk of Chriſt, and Salvation by him: I muſt tell you, your Building is but on the Sand, and the Rock you know not; for you know that when the Winds blew, and Waves beat upon you of Perſecution, you fled in that Winter, there was no courage for God amongst you, but you fled from your Te<g ref="char:EOLhyphen"/>ſtimony, manifeſting by your fainting in the day of Adverſity, that your ſtrength was but ſmall: And I must clear my Conſcience towards you, that for many years in many places of this City, made ſuch a noiſe concerning Religion, and when the hour of tryal came, fled, and turned your backs on your Teſtimony: the cauſe is this, your Building is on the Sand, and ſo like the wicked, you oft fled, when none perſued, ſo captivated were you by the fear of man: I know, and your Conſciences know, how you conſulted your fleſhly Eaſe, and Intereſts, and fled the Croſs! Conſider I earneſtly in<g ref="char:EOLhyphen"/>treat
+<pb n="5" facs="tcp:150180:4"/> you, how it came to be thus with you. Men have ſeduced you into a falſe Faith, and falſe Hope: and the God and Christ you talk of, I testifie unto you, you know not: and ſo in the hour of tryal, how ſhould you ſtand, that know not the Rock? Oh ye back<g ref="char:EOLhyphen"/>ſlidden People! thus it is with you, whether you will hear or for<g ref="char:EOLhyphen"/>bear, this is the word of the Lord unto you, even a Lye is in your Right hand, while you are talking of Chriſt, his Death and Suffer<g ref="char:EOLhyphen"/>ings, and Reſurrection, and Juſtification by him; yet being re<g ref="char:EOLhyphen"/>bellious against his Light in you, you are ignorant of, and ſtran<g ref="char:EOLhyphen"/>gers to him: and ſo truly I ſee and am ſenſible of your ſad danger, even to be ſeduced by your Teacher, to ſtumble at the Foundation &amp; fall and periſh for ever! Oh that ever the Teacher of <hi>All hollows</hi> witneſs-bearing People, ſhould enter into a Confederacy with the worſt of men, againſt the Innocent Holy People of God: for ſuch are they, who by him and his Colleagues are ſo Reviled: I ſay, a People ſanctified by Faith in Chriſt Jeſus. Oh People, the Lord hath a ſore and terrible dreadful Controverſie with you; for you are as the Cauldron the Prophet ſpeaks of, with its great ſcum in it: ſo it is with you: the fire hath not purified you, but you retain your ſcum of Pride, Fleſhly-eaſe and Senſuality, Formality in Re<g ref="char:EOLhyphen"/>ligion, and Conformity to the world. Oh that it ſhould be thus with you after ſuch a day as God hath brought amongſt you! Now I am to tell you of one great depth of Sathan, whereby you have been ſeduced, for which the wrath of God Almighty is againſt you; and that is, your offering Sacrifice, when God calleth you to Service: In that your Practice of keeping thoſe Days in a way of Faſting and Prayer, when God calleth you to teſtifie againſt their Superſtitious Obſervation: your Teacher aforehand tells you, that ſuch a day, you will have a diverſion from your Callings, and therefore apoints it to be ſpent in Faſting and Prayer: thus if any Teſtimony expoſeth you to Sufferings, you to ſhun the Croſs, to offer Sacrifice you agree. O depth of Deceipt: Oh ye Antients of that Congregation: there was a day when your beloved <hi>John Symſon</hi> exhorted you to open your ſhops on ſuch days, as a Teſtimony God required y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u to bear a<g ref="char:EOLhyphen"/>gainst Superſtition: and I have heard him reprove the neglect of it,
+<pb n="6" facs="tcp:150180:5"/> in theſe words, <hi>I paſſed along the Streets ſuch a day, and ſcarce fee one ſhop open!</hi> being the <hi>25th</hi> day of the <hi>10th</hi> Month, and lamented it, and reproved you for it: Oh you Back-ſliders! com<g ref="char:EOLhyphen"/>pare this with the Spirit of your preſent Teacher! Oh what a fil<g ref="char:EOLhyphen"/>thy pickle you are in, that have thus long wallowed in your mire! the Lord abhors you, and all your Faſtings and Prayers: even as the Prophet ſaid to degenerated
+<hi>Iſrael</hi> of old: this is the word of the Lord unto you, Oh People, <hi>Zech.</hi> 7. 5.
+<hi>Speak unto all the People of the Land, and to the Prieſts, and ſay, when ye faſted and mourned in the fifth and ſeventh Month, even the ſeventy Years, did ye faſt unto me? did appoint it?</hi> I this day teſtifie unto you, theſe 14, or 15 years, ye have not faſted unto the Lord, but to your ſelves, to your own Bellyes, to preſerve your fleſhly eaſe and intereſts: and it is no better than the cutting off the dogs neck, or offering Swines blood: Conſider this, Oh ye Houlers, and hear as in the ſight of God that juſtifieth me in it, and requireth it of me, I charge it upon you that call your ſelves Churches, to be guilty of thickning the Veil of Darkneſs upon the minds of the People of this age, by your deſerting your Teſtimony againſt Superstition, and running away in the day of ſuffering. Oh ye Hypocrites, when God calls you to a publick Teſtimony againſt Popiſh Obſervations, you run into corners, and keep a houling of your fears of the dark night of Popery coming upon the Nation I know your doings in the dark—the Righteous God hereby chargeth it upon you, to be guilty of ma<g ref="char:EOLhyphen"/>king groſs and thick the Veil of Darkneſs upon the minds of People in this day; and in his Fear I charge it upon you. Woe, woe unto you from the jealous God of <hi>Iſrael,</hi> that out of
+<hi>Sion</hi> this day roar<g ref="char:EOLhyphen"/>eth and uttereth his voice from <hi>Jeruſalem</hi> againſt you, Oh ye evil doers, that have run into Corners, Cole holes, Cloſets, or on tops of houſes, through Valleys, from one houſe to another; enquired after, and conſulted to have back doors, and all to eſcape the Croſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: Oh bluſh, that ever men ſhould be ſo impudent, as to appear in this day to admoniſh the People, that have ſo acted their part! Now no wonder your Teacher joyns his hand with that notorious Enemy to God and Reformation, <hi>R. Baxter,</hi> who hath ſtrained his wits on that
+<pb n="7" facs="tcp:150180:5"/> Teynters, to reduce this age into <hi>Aegyptian</hi> Darkneſs, witneſs his
+<hi>Cure for Church Diviſions:</hi> wherein he hath condemned the Saints and Martyrs of all ages: and no doubt but <hi>Ed. Bagſhaw,</hi> that ſo honeſtly oppoſed him, was counted with theſe 25 Moniters a Reverend Divine; but to paſs them, Oh how can I but lament that the people of <hi>Allhollows</hi> ſhould be entered into this moſt deteſtable confederacy againſt the work of God in this day! Oh you whom God hath emptied from Veſſel to Veſſel, and hewed ſome of you to piece, and all to humble you and purifie you: but alaſs you are turned into the degenerate plant of a ſtrange Vine to him, <hi>Jer.</hi> 2. 21. yea you are the people that having been ſmitten have not received correction, <hi>v.</hi> 3. Oh people, this is your ſtate! and as he ſaith <hi>v.</hi> 9. <hi>he will yet plead with you.</hi> Now clearly ſeeing the ſad danger you are in, even ſuddenly to ruſh your ſelves
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto an irrecoverable ſtate, by being be<g ref="char:EOLhyphen"/>gotten by your Teacher into a Spirit of enmity againſt the Lords he<g ref="char:EOLhyphen"/>ritag<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which is the work of the Devil in this day, in and by various Inſtruments; and the Devil ſet awork theſe 25 Moniters, to ſlan<g ref="char:EOLhyphen"/>der and reproach the holy people of God, to prejudice you and others againſt them, and their holy Teſtimony: I hereby warn you of the danger you are in, and in obedience to the requirement of the God, in whoſe hand is my breath, and to whom I muſt give account of all done in the body, in oppoſition to them, and all ſuch as they are. I hereby test<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fie that the p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople they ſlander, are the
+<hi>Iſrael of God,</hi> a holy unblameable people, whoſe deſign in the world is the glory of God, and the ſalvation of mens ſouls, for which they have hazarded their all, when none of theſe Moniters durſt ſhew themſelves: and amongſt them, I am a witneſs, is preacht ſound Doctrine, and not to be reproved, the ſame ſalvation and way of obtaining it, that as the Apostle ſaid, began firſt to be ſpoken by the Lord, and after by them that heard him: and I here teſtifie unto you, that you are their ene<g ref="char:EOLhyphen"/>mies becauſe you know them not: but did you ſee them in themſelves, ſtript of the falſe dreſſes of <hi>Faldoe</hi> and theſe Moniters, and all ſuch as they; there is ſo much honeſty in many of you, that a love would ariſe in you to them; yea you would lay hold on their skirt, and their God ſhould be your God: A zeal is in my heart towards God, and in pity to poor deluded people by theſe wicked men, and therefore be<g ref="char:EOLhyphen"/>ſeech
+<pb n="8" facs="tcp:150180:6"/> you and all people to conſider your state, and take heed to your Spirit, as was the antient exhortation of <hi>Eſay</hi> the Prophet: ſo to you all, I ſay, Oh harden not your heart by continuing in your provo<g ref="char:EOLhyphen"/>cation: And to you in particular, once more I ſay conſider your ſtate, and be honest and true to your ſelves: you know not how ſhort your time may be: oh be not bewitched by corrupt men, but conſider what was the cauſe you could not ſtand in the hour of tryal, but for fear of a Constable or Soldiers ran away from your Prayers and Preach<g ref="char:EOLhyphen"/>ments; yea from your Bread and Wine too, that you call a Sealing Ordinance of your eternal Inheritance; but you have manifeſted what a ſenſe you have, of the vallew of an eternal Inheritance in your taking your evidences unſealed, rather than expoſe your bodies to a Priſon, or ſhame amongſt men; there is that in you that ſheweth you that if you would do your ſelves juſtice, you would confeſs you love your bellyes more than God: ſeek the well-fare of your bodyes, not your ſouls: Oh repent and be converted, that you may know a blotting out of your ſins: Oh ye Summer-fruit, if you reform not your lives, the next winter of ſnow and froſt of Perſecution, ye will all drop again as rotten fruit, fit for nothing but the dunghill, as Christ ſaith of the unſavory ſalt: therefore even as was ſaid to them of old, <hi>Rev.</hi> 3, 18. I councel thee to buy of me gold tried in the fire: or I aſſure you if you know not a purging of the droſs from the ſilver, you will never be veſſels for the Finer. <hi>Prov.</hi> 25. 41. But depart from me ye curſed I know you not, will be the dreadful portion of all of you; ſo now I proceed to examin ſomwhat of the Mo<g ref="char:EOLhyphen"/>niters Epiſtle, which I teſtifie againſt to be a Compound of Lies and Slanders, ſufficient to ſend all thoſe to hell that ſhall ſwallow the least doſe of it. Not that I intend a general anſwer to it, that would ſwell to a large Volume ſo to rip it up and reſpond to it: but as to that part of it, that once my ſelf being infected with, and thereby prejudiced against the holy people of God and their Teſtimony, the Lies I once believed, I am now to teſtifie againſt: &amp; truly I believed them not ſimply of my ſelf, but as they were influenc'd into me by ſuch perſons as theſe, as no doubt is into you; and in Conſcience to<g ref="char:EOLhyphen"/>wards God, and his dear People, that I ſay theſe Moniters have falſely repreſented, and deteſtably ſlandered. I thus proceed:</p>
+         </div>
+         <div type="part">
+            <pb n="9" facs="tcp:150180:6"/>
+            <head>21. MONITERS. <hi>Excepting ſome juggling</hi> Socinianized <hi>Perſons, or</hi> Papiſts <hi>that aſſume their Name.</hi>
+            </head>
+            <p>HEre they plainly endeavour to incinuate into peoples minds, that we are in Affinity with the
+<hi>Papiſts;</hi> and have <hi>Papiſts</hi> amongſt us.</p>
+            <p>This horrid Slander and Lye I once believed, through the like Incinuations of ſuch, and ſome of theſe men<hi>:</hi> Now indeed the deadly Venome of their Monition Lyes here, being the old Weapon whereby they have for many years endeavoured to de<g ref="char:EOLhyphen"/>ſtroy our Reputation, and thereby our Being, in the Land of our Nativity: and truly theſe men conſider not in their heart, that God remembreth all their Iniquity, <hi>Hoſ.</hi> 2. 7. and ſo they go on to drink up iniquity as the Ox drinks water<hi>:</hi> and in this matter they have been ſo manifeſtly proved Lyars, that were they not the impudent Sons of <hi>Jezebel</hi> the Seducer, <hi>Rev.</hi> 2. 20. they would never have raged thus more, exccepting that God will have them diſcovered, to be of the ſame Spirit, with their Brethren in <hi>New England:</hi> for theſe 25 Moniters are a Com<g ref="char:EOLhyphen"/>plication of Presbyterians and Independants; and it is to be perpetuated as moſt requiſite for the Information of ſucceeding Ages, That it was Preaching Praying, Faſting Presbyterians and Independants that Murthered the Saints in <hi>New England:</hi> Now in this horrid Impious Incinuation of us to be Popiſh, they yet manifeſt the depth of Villany, <hi>Hoſ.</hi> 6. 10. that lodgeth in their Hearts, to incinuate this afreſh into Peoples minds<hi>:</hi> but Lyes are their Refuge, as <hi>Needham</hi> uſed to ſay of their Enemies, <hi>This Lye was their Weapon,</hi> 1659<g ref="char:punc">▪</g> when they put forth their Monition in this City. Now that through ſo much Tryal and Tribulation ſince, even to the general ſatisfact<g ref="char:EOLhyphen"/>ion of Magiſtrate and Subject, the contrary hath been mani<g ref="char:EOLhyphen"/>feſted<hi>:</hi> Theſe Men herein I Charge, 1. With moſt horrid
+<pb n="10" facs="tcp:150180:7"/> impudency and malice. 2. To be manifeſtly hereby convicted, to have a deſign, to debauch the Peoples minds, in perſwading them to believe the contrary to their experience, and what is repugnant to the conviction of their Conſcience<hi>:</hi> contrary to experience: that ſometimes theſe Moniters will ſay is the beſt Teacher; herein they are chargeable with Debauchery: and better for their work ſake, merit the term<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Debauchers, than Divines. This looks Pope like, that people muſt not ſee with their own eyes<hi>:</hi> It is ſufficiently known, how oft <hi>Baxter</hi> hath flown up and down the Nation in white and black ſheets, to render us Jeſuitical and Romiſh: ſo cannot be much wonder<g ref="char:EOLhyphen"/>ed at in that proved enemy to all ſaints, who rather than will want enemies to ſhoot his arrows of malice and envy at, can make Sectaries, and then thunder out his Bulls againſt, calling upon the Powers to perſecute them<hi>:</hi> as they know that are ac<g ref="char:EOLhyphen"/>quainted with the wards of his <hi>Catholick Key,</hi> dedicated to <hi>R. C.</hi> where I cannot but note, he ſcribles againſt a ſort of Sectaries, I could never meet with in any other Author, and yet am no ſtranger to the Hiſtory of the Times, nor a heedleſs Spectator, of publick Actions, that is the vaineſt Sect<hi>:</hi> but no doubt but this man would have all he envies ſuch a Sect as he pleaeſth to tearm them, and then away with them all at one ſtroak, that the Presbyter may have all, and that ſcarſe enough to ſatisfie their greedy deſires<hi>:</hi> But adored be the hand of God, wherein is the heart of Princes, who hath ſecretly diſappointed all ſuch <hi>Hamans:</hi> and here I cannot but remember people of this mans being in 1659. publickly cryed up and down in <hi>London,</hi> for a Lyar and a Slanderer: ſo <hi>R. B</hi> thou art no changling; wherein thou haſt no doubt been lately ſtrengthned, by a Son of the ſame Mother<hi>:</hi> though differing a little in Feather, <hi>Tho. Hicks</hi> the Baptiſt: who might well have Subſcribed, as of your Fraternity, being ſo dexterous in forgery, whoſe <hi>Dialogues,</hi> and thy <hi>Catholick Key</hi> differ in date, but not in Nature. Now to conclude, This I hereby declare to all of you, and to all men, that this Incinuation is moſt falſe, and the Lye and Lyars are for
+<pb n="11" facs="tcp:150180:7"/> the lake of Gods Vengeance for ever: and that we have either Papiſt or juggling Socinian amongſt us, is a ſoul lye, and make your Charge good if you can. And I hereby warn all, as they tender their Souls welface, and would eſcape the Pit of Perditi<g ref="char:EOLhyphen"/>on, theſe Malicious men are leading them into, to have a care they let not into their minds this mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t deteſtable Incinuation. A lye I once believed, and was prejudiced againſt the Saints of God by it, on the contrary I declare, that in Conſcience I be<g ref="char:EOLhyphen"/>live there never was a Jeſuite or Papiſt amongſt the Quakers, as owning them, or their Principles: and for Socinianiſm, I refer you to a <hi>Book</hi> written by thoſe Servants of Chriſt, his Church, and their Generation, <hi>George Whitehead</hi> and <hi>William Penn,</hi> intitled <hi>The Divinity of Chriſt:</hi> wherein is enough ſaid to ſatisfie any, but ſuch as are drunk with the Wine of the Whores Cup, <hi>i. e.</hi> the Prieſts, <hi>i. e.</hi> the Presb. and Indepen<g ref="char:EOLhyphen"/>dants Cup of Malice againſt the Innocent: thus the Lord ha<g ref="char:EOLhyphen"/>ving opened my eyes, and deliverd me out of theſe ſnares of the Enemy, <hi>i. e.</hi> to believe the falſe incinuations of men againſt the holy People of God, I give my Teſtimony againſt this their incinuation, as tending to debauch People, being aſſured, that as the ſtanders by ſaid, when the Temple was rent, and darkneſs covered the earth, when Chriſt ſuffered<hi>: Of a truth this was the Son of God:</hi> ſo that by the Doctrine and Conver<g ref="char:EOLhyphen"/>ſation of the people whom theſe men thus traduce, even moſt people have been reached ſo as to believe, they are not, nor never were, Jeſuitical or Popiſh<hi>:</hi> Now at this time a day, thus to incinuate, I ſay is to endeavour to debauch the minds of the People, to perſwade them to believe a people to be that, which they have born, and do bear ſuch a Teſtimony againſt, in root and branch, as never was born by any People, ſince Popery had a name in the world. And oh that the preſent Magiſtrates of <hi>England</hi> could bow their ear and receive a word of Counſel in this matter, even to be aware of theſe men, and of being in<g ref="char:EOLhyphen"/>fluenc'd by them into an evil opinion of the innocent people of God: their old practice was by Petitions and Addreſſes to en<g ref="char:EOLhyphen"/>deavour
+<pb n="12" facs="tcp:150180:8"/> to ſtir up their own Creatures to acts of Cruelty againſt us, under the ſame pretence of Jeſuitiſm and Popery; but of late years, what they incinuated into peoples minds to affright and amuze them on that acoount is ſufficiently known<hi>:</hi> and now again, becauſe malice hath no place for reſt, they are buzzing again into peoples minds, incinuations againſt us, as the introdncers of Popery. Well, God Almighty will render their Iniquity into their own boſome; and as to you, this I declare, the Quakers merit no evil from you, being a people of as ſound Principles, as to Government, as ever were upon the Earth, whoever they were and have been that have hurt people with whimſical Opinions concerning Government, un<g ref="char:EOLhyphen"/>der ſpecious pretences, I ſhall here be ſilent as to ſuch<hi>:</hi> but as for the <hi>Holy Iſrael of God,</hi> called Quakers, Righteouſneſs is in their hearts towards all men, to the King, and all that are in Authority: deſiring their Eternal and Temporal Tranquility<hi>:</hi> And therefore I do even beſeech all ſuch, whom God in his wiſe Providence hath ſet as Rulers over the People of this Na<g ref="char:EOLhyphen"/>tion, to have a care they be not ſeduced by theſe men, into falſe apprehenſions of this holy People: and muſt to that end here mind you, and all m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, That it was Preaching, Praying, Faſt<g ref="char:EOLhyphen"/>ing Presbyterians and Independants that murthered the Saints in <hi>New-England.</hi> Oh have a care of them, for they drive at no leſs here: but God that hath, will yet more and more unveil them to all men.</p>
+         </div>
+         <div type="part">
+            <head>MONITERS. <hi>From whom they hide the poiſon of their Anti-Fundamental Doctrines.</hi>
+            </head>
+            <p>COme Rabbies, though never at your Univerſities, nor can well tell what traſh by Tradition you profeſs, for Fundamentals, forged in, and ſomented by General Councels, and Synods of carnal men, like your ſelves, that in ſeveral A<g ref="char:EOLhyphen"/>ges,
+<pb n="13" facs="tcp:150180:8"/> have drawn Pictures of Religion, which you fall down to and worſhip, out of whoſe Treaſuries you have ſtockt your ſelves: and ſtrip you of which, alas how much wiſer are you than thoſe whom you mock at, as ignorant? this I affirm on behalf of the Quakers, that whatſoever, according to the holy Scriptures can be called Fundamental Principles of the Chri<g ref="char:EOLhyphen"/>ſtian Religion, they fully affert, own, and contend for, even for the Faith once delivered to the Saints, which you carnal men are out of, Now, you Rabbies, and all men know, that we believe in one Almighty Omnipotent God, and that he is to be loved, worſhipped, feared and obeyed: that he created and upholdeth all things by the word of his power: that he is holy, merciful, juſt and true: that man by ſin became deprived of the knowledge, and enjoyment of God, his Creator<hi>:</hi> that the reſtoration of this loſt man to happineſs again, in the en<g ref="char:EOLhyphen"/>joyment of the favour of his Creator, is only through the Lord Jeſus Chriſt, who 1600 years agoe, was of the Line of <hi>David,</hi> born of the Virgin at <hi>Bethlem</hi> in <hi>Judea,</hi> who preached a Hea<g ref="char:EOLhyphen"/>venly Doctrine, was Crucified by the <hi>Jews,</hi> and laid in a Se<g ref="char:EOLhyphen"/>pulchre, and was raiſed by the power of God, and was ſeen of <hi>Mary,</hi> and other Brethren, who aſcended far above all Hea<g ref="char:EOLhyphen"/>vens, and ſhall come the ſecond time without ſin to Salvation, even to all that look for him<hi>:</hi> that he came to do the Fathers will, and in the prepared body did it, in which ho aboliſht death, offering up himſelf through the eternal Spirit, without fault to God, to purge the Conſcience from dead works to ſerve the living God,
+<hi>Heb.</hi> 9. 14. That Man muſt believe in this Lord Jeſus Chriſt for remiſſion of ſins, and acceptance with the Fa<g ref="char:EOLhyphen"/>ther<hi>:</hi> and that by Faith Chriſt is applyed to the Soul, for Wiſ<g ref="char:EOLhyphen"/>dome, Righteouſneſs, Sanctification and Redemption: and that by the imputed and imparted Righteouſneſs of Chriſt, man comes to be juſtified, and accepted with God, acceptance being only in him the beloved<hi>:</hi> We believe the Reſurrection of the dead, Chriſt the firſt fruits, and afterward they that are his at his coming<hi>:</hi> We believe the Life everlaſting, <hi>Amen.</hi> And for
+<pb n="14" facs="tcp:150180:9"/> Chriſts ſake are willing to be killed all the day long, in hope of a better Reſurrection, ſeeking a Country whoſe Builder and Maker is God: VVe own the Holy Scriptures to be of ineſti<g ref="char:EOLhyphen"/>mable value, and excellent uſe to all men: but we ſay it ſelf gives the preheminence to the Holy Spirit, as that alone which leads into all truth, <hi>John</hi> 16. 8.</p>
+            <p>Now in oppoſition to the four Moniters that incinuate that we do not own, and preach Chriſt, the Eternal Son of God, and after the fleſh of the Virgin<hi>:</hi> And the 21 that incinuate, we hold antifundamental Doctrines, I give forth this Teſtimo<g ref="char:EOLhyphen"/>ny: wherein I affirm that of the 4 to be a moſt deteſtable Lye<hi>:</hi> that we preach a meer Created Light of the natural Conſcience and Reaſon, affirming that the ſame Jeſus that the Apoſtles Preacht, to be Preacht amongſt us; faith in him is preacht as the only name given by whom poor Souls can be ſaved: and in oppoſition to the 21, do ſay, if to believe in the only true God, and Jeſus Chriſt whom he hath ſent be eſſential to Salvation; if to fear God, and love our Neighbours, and do to all men as we would be done by: even to believe in Chriſt as the Author of eternal Salvation, to all that obey him, and as is more larg<g ref="char:EOLhyphen"/>ly afore-mentioned. be with you Fundamental, then your in<g ref="char:EOLhyphen"/>cinuation of our holding Anti-fundamentals is ſlanderous.</p>
+            <p>It is very true, Baby-baptiſm, prated<g ref="char:punc">▪</g>prayers, Sinners to ſing Saints Pſalms, Man made-Miniſters, entitling every un<g ref="char:EOLhyphen"/>clean harlot to Church-memberſhip, that the Merciful God decreed ſome men from all eternity to damnation, that God of<g ref="char:EOLhyphen"/>fers mercy and Salvation to thoſe he never intends it<hi>:</hi> theſe Lies and Blaſphemies, wherewith you have poiſoned this age; all this we deny, but all wholſome found Doctrine we own, and are ready to make it appear to the Faces of the Stouteſt of you, and prove you are Slanderers of us.</p>
+            <p>Theſe Lies once believing, that the Quakers denyed Chriſt and the Scriptures; and knowing the danger people are in, through the ſubtil wiles of theſe men, to be ſeduced into a Spi<g ref="char:EOLhyphen"/>rit of envy againſt the Innocent, even to their everlaſting Dam<g ref="char:EOLhyphen"/>nation,
+<pb n="15" facs="tcp:150180:9"/> I am the larger in this matter<hi>:</hi> the great objection in this matter is, that we preach the Light, and exhort people to turn to the Light of Chriſt in them, this is true, but that this is to preach, a created Light of Reaſon, and natural Conſcience: oh that ever men that would be accounted the only Learned men, ſhould be thus blind, and baſe, and thus to incinuate, when the Scripture ſo amply gives us an account of Chriſts preaching himſelf, in the ſame Dialect, that he was come a Light into the world; and exhorted people to believe in the Light, that they might be Children of the Light, <hi>John</hi> 8. 12. and here I ſhall refer theſe Rabbies, and all people, to the Teſtimony of <hi>Paul, Acts</hi> 26. giving account of his Doctrine, <hi>I continue witneſſing, to ſmall and great, the ſame things ſpoken by</hi> Moſes <hi>and the Prophets; how that Chriſt ſhould ſuffer; and be the firſt that ſhould riſe from the dead, and ſhould ſhew light to the people, and the gentiles:</hi> Well ye Rabbies, is it to preach a cre<g ref="char:EOLhyphen"/>ated Light of the Reaſon and natural Conſcience, to teſtifie that Chriſt doth ſhew light to all men, and exhort them to turn to it; you might as well have ſaid the ſame of <hi>Paul,</hi> had you lived in his days: Oh the midnight darkneſs that you are in, thus baſely to perſwade people to believe Lyes concerning us, of your own forging. VVhatever have been, and may be, your falſe accuſations, I am aſſured, all theſe people called Quakers, can unanimouſly and chearfully, concerning Jeſus Chriſt of
+<hi>Na<g ref="char:EOLhyphen"/>zareth,</hi> ſubſcribe to that ſavory ſaying of Doctor <hi>Criſp,</hi> as I re<g ref="char:EOLhyphen"/>member.</p>
+            <q>
+               <l>If Christ thou knoweſt, it will ſuffice,</l>
+               <l>Though elſe thou knoweſt not:</l>
+               <l>If Chriſt be hid, thou art not wiſe,</l>
+               <l>Though all elſe thou art taught.</l>
+            </q>
+         </div>
+         <div type="part">
+            <head>21. MONITERS. <hi>And yet ſome of them being grown Rich, can, and do live in in as much fleſh-pleaſing, fulneſs, ſplendor, and indulging to a ſen<g ref="char:EOLhyphen"/>ſual life, as others whom they have condemned.</hi>
+            </head>
+            <p>I VVill readily allow theſe men to be competent judges of ſuch a life, according to their own Tenent, that Experience
+<pb n="16" facs="tcp:150180:10"/> is the beſt Teacher: yet in this alſo their tongue is ſet on fire in hell, according to their wonted trade, to call good evil, and evil good, <hi>Jer.</hi> 48. 27.
+<hi>Was not Iſrael a diriſion to you?</hi> even ſo is it with theſe men<hi>:</hi> they deride the <hi>Iſrael of God,</hi> and endea<g ref="char:EOLhyphen"/>vour thus to draw in others to deride us: and I doubt not but the curſed fire, that burns in their unclean hearts againſt us, they deſign to blow up in the whole Nation againſt us<hi>:</hi> but it is like them, who doctrinally apply peace where God ſpeaks war, and war where God ſpeaks peace; but they are lame in this al<g ref="char:EOLhyphen"/>ſo, by their own Tenent<hi>:</hi> who in their Pulpits will tell you, Generals prove nothing: This is a general Accuſation; but ex<g ref="char:EOLhyphen"/>cept they can of their own knowledge, produce ſome particular inſtance, it proves nothing<hi>:</hi> and though I never was of their Univerſity Pupils, yet do believe, that by their Univerſity Rules, they merit a laſh, for ſuppoſitory Calumniation<hi>:</hi> It's true, Ill-will never ſpeaks well: ſo to expect better from theſe men, were to ſeek grapes on thorns<hi>:</hi> but we know all are not dead drunk with the wine of Malice, ſo as to believe all theſe men ſay, though termed Reverend Divines. Old ſtile, though nothing more repugnant to propriety of Speech: But as to that matter let all men know, that if any pretending to be of us, be ſuch as indulge the fleſh, they are none of us, but are returned to you: for it is not poſſible they ſhould be of our fellowſhip, but may be fit members for your Church, who doctrinally de<g ref="char:EOLhyphen"/>clare, that Dominion over ſin is not to be expected here<hi>:</hi> as a great one of you in a Book called <hi>Helps to Piety,</hi> thus faith, <hi>The body of ſin and death were born, and must die together.</hi> Oh rare Divines! is this Doctrine a help to Piety? Now to conclude this, Oh ye Moniters, would ye recover your long loſt Reputa<g ref="char:EOLhyphen"/>tion, by ſlandering us? your old cauſe taught you better<g ref="char:punc">▪</g> all this will not ſerve your turn, for God is ſtripping the veil off peoples minds, and they will ere long ſee with their own eyes, not yours; and the unprejudiced know you are falſe accuſers herein; and that all ſenſualiſts are judged of us and not of us<hi>:</hi> for we follow peace and holineſs, without which no man ſhall ſee the Lord.</p>
+         </div>
+         <div type="part">
+            <pb n="17" facs="tcp:150180:10"/>
+            <head>21. MONITERS. <hi>Few among them are men of ſo much underſtanding, and competent Principles, as to be able and willing to give a methodical account, intelligibly, of what they or their party hold.</hi>
+            </head>
+            <p>HEre is a Lye Couchant: he that rides conquering and to conquer, notwithſtanding all your weapons of oppoſi<g ref="char:EOLhyphen"/>tion hath in our day riden proſperouſly, that in our Nation at this day is many thouſands of true <hi>Iſraelites;</hi> of which great number it may be ſuppos'd, you 25 are not acquainted with 100. And yet you are ſo confident, as to affirm us all fools but a few. Oh ye Artiſts, and men of Methods, that are wiſe to deceive! We are not aſhamed to grant, that we are come to that Wiſ<g ref="char:EOLhyphen"/>dome that the world calls folly, being willing to become fools, that we may be truly wife, as the Apoſtle teſtified in his day; and it's not novelty, for ſuch as preach in the wiſdom of God, to be called babblers, by ſuch as you<hi>:</hi> We are come to that which giveth ſubtilty to the ſimple, and in that miſtery how ſhould we be intelligible to you, carnal men, whoſe wiſdome is from beneath, ſenſual, diveliſh: But before you upbraid us for our ignorance, oh Rabbies, you ſhould anſwer <hi>Ruſticuſs</hi> by <hi>S. F.</hi> What, will you boaſt, and put off your harneſs, as victorious, and ſing and ring a victory, and never have engaged your ene<g ref="char:EOLhyphen"/>my? If <hi>Ruſticuſs</hi> hath put you all to ſilence, why do you ſo mock at the Ruſtick? You prate againſt the Ruſtick, and yet run a<g ref="char:EOLhyphen"/>way from him. Well ye Rabbies, we grant you cannot under<g ref="char:EOLhyphen"/>ſtand; but I tell you the reaſon is, becauſe you were never with us at the School of Chriſts Croſs. We know you come from
+<hi>Cambridge</hi> &amp; <hi>Oxford,</hi> but you are not yet entered in the School of Chriſts Croſs, and that's the reaſon, we who ſpeak the wiſ<g ref="char:EOLhyphen"/>dome of God in a Miſtery, are to you unintelligible. We know you have read worldly Authors, and have hundreds or thou<g ref="char:EOLhyphen"/>ſands a year, to pick here and there, and then incloſe it in your
+<pb n="18" facs="tcp:150180:11"/> Bible, and tell the people, thus ſay the Fathers of the Church<hi>:</hi> thus the Antient and Modern Divines<hi>:</hi> the Text is thus divi<g ref="char:EOLhyphen"/>ded into parts: theſe the points of Doctrine<hi>:</hi> thus illuſtrated<hi>:</hi> theſe the Inſerences<hi>:</hi> theſe the grounds and reaſons of the point: theſe the Uſes, and thus applyed: Lo your Trade! and by this craft you fill your bellies, and maintain your Families in world<g ref="char:EOLhyphen"/>ly pomp, and thus the ſpirit that is in you luſteth to envy a<g ref="char:EOLhyphen"/>gainſt the poor and meek of the earth, and call them fools and mad men, babblers, unintelligible of inconſiſtent Principles<hi>:</hi> Well, if ignorance be the Mother of our Devotion, we know we have heard and learnt of the Fathers, who calleth not ma<g ref="char:EOLhyphen"/>ny wiſe nor mighty, and confoundeth things that are, by that which is not. But oh that you Doctors could ſee, that God is in this day turning the wiſdome of wiſe men backward, and per<g ref="char:EOLhyphen"/>fecting his praiſe out of the mouths of babes and ſucklings<hi>:</hi> which glorious work, though you joyn hand in hand againſt, you ſhall not go unpuniſht<hi>:</hi> for
+<hi>Sions</hi> brightneſs is ariſing, and her God is her glory, and in vain do you form weapon after weapon, for none of them ſhall proſper, the Lord hath ſpoken, and who is he that ſaith and it cometh to paſs, when the Lord commandeth it not? the Virgin Daughter of
+<hi>Sion</hi> laughs at all your plots and conſpiracies, truſting in the arm of the Lord, that hath brought your councels to nothing, and yet, yet again will make you Diviners mad. Oh ye Doctors, Remember that hand that ſubverted all your councels, and brought down your lofty neſt in 1659. you that deceived the ſimple ones of that day, by your long Prayers, and days of Faſts in ſeveral pla<g ref="char:EOLhyphen"/>ces in this City, charming them with Lyes, until the hand of the Lords Vengance brake forth, without remedy: could ever this age expect again to hear of you, whoſe light of your eyes, and breath of your noſtrils, is ſo long agone dead, and twice buryed. Now oh people, can you chuſe but ſtand amazed to ſee theſe men ſo impudent, as ever again to appear, as your Moni<g ref="char:EOLhyphen"/>ters? how many of your dear Fathers, Husbands, Brothers and Kindred have in this age, by theſe very men, been ſeduced into
+<pb n="19" facs="tcp:150180:11"/> deſtructive ways to ſoul and body, to the ruine of many antient and honeſt Families? I ſay to all people, reflect but your own Experience, of theſe men, the beſt Teacher, as themſelves ſay, and more need not to be ſaid, than to remind you of your own experience of theſe men. Theſe men are better known to me, than to every one and my feet were well nigh ſlidden into the everlaſting pit of deſtruction, by their ſeducing Doctrine; and it's my concernment to warn others<hi>:</hi> and I do ſay, could peo<g ref="char:EOLhyphen"/>ple hear the cry of thouſands out of the pit of damnation, they would intelligibly hear their Idol of Jealouſie, and others thus lament, Presbyterian and Independants, under the notion of Goſpel Miniſters, and Reverend Divines, were the men that ſe<g ref="char:EOLhyphen"/>duced us hither, by their preaching peace to us, and crying, the Lord is with you<hi>:</hi> had it not been for them, we had obeyed the Light in our Conſciences, and returned from our evil ways, and had never come here: thus cries <hi>John Indicot</hi> and others of <hi>New England,</hi> and this is the dolorous complaint of thouſands of our, but yeſterday, dear Country men. Oh people, conſider what I ſay unto you, that you would but reflect your own expe<g ref="char:EOLhyphen"/>perience of theſe men. Oh <hi>G. G.</hi> how dareſt thou ever appear again? ſhure thou haſt forgotten thy <hi>Weſtminſter</hi> Flatteries, thou moſt notorious lying Prophet, whom I heard thus to pray, at <hi>Pauls, Lord, Bleſs the Army of the Lamb, againſt the Beast, give them ſucceſs.</hi> The Army that by thy Maſter was ſent to
+<hi>Hyſpa<g ref="char:EOLhyphen"/>niola,</hi> to rob the <hi>Spaniard,</hi> ſo then there: the Army of the Lamb was hewed to pieces in the woods in <hi>Hyſpaniola</hi> by a few Moors. Oh ſad Moniter, poſſeſt with a legion of lying Spirits<hi>! Solomon</hi> ſaith, <hi>He that ſaith to the wicked, thou art righteous, him ſhall the people curſe, Prov.</hi> 11. 26. That is thy portion, O <hi>G. G.</hi> by way of eminence. Oh if people were not in a Lethargy of ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urity, they would be aware of you all, and ſhun you as the Plague of the preſent time.</p>
+            <lg>
+               <head>Oh People!</head>
+               <l>Theſe Prieſts you ſee no Changlings are,</l>
+               <l>Such as they were, ſuch like to be ever:</l>
+               <l>
+                  <pb n="20" facs="tcp:150180:12"/> They change their Coats and vary their Notes,</l>
+               <l>But always you may obſerve their lure</l>
+               <l>Is ſtrain'd to graſp after filthy lucre:</l>
+               <l>Though often routed, yet they rallie,</l>
+               <l>And face any way to fill their bellie.</l>
+               <l>Their net is alway ſpread to fill their table,</l>
+               <l>Rendring Religion a meer fable.</l>
+               <l>That of them you may not have clear ſight,</l>
+               <l>They prejudice your minds againſt the light.</l>
+               <l>Thoſe that them obſerve, cannot but mark</l>
+               <l>Their induſtry to keep people in the dark.</l>
+               <l>No wonder then, they thus continue to fight</l>
+               <l>Against thoſe that exhort to turn to the light,</l>
+               <l>Did you but ſee theſe men, as they be,</l>
+               <l>From them, as greateſt danger, you would flee.</l>
+               <l>All Zeal for Religion they endeavour to cool,</l>
+               <l>For alas they dread, that threatned houle, <hi>(Rev.</hi> 18. 11.)</l>
+               <l>Oh dreadful day, <hi>John</hi> the Divine there foretold,</l>
+               <l>When their Merchandice will procure no Silver nor Gold.</l>
+               <l>Theſe ſinews cut, they faint and ever dye,</l>
+               <l>Therefore dread the light, leſt people ſhould ſee eye to eye.</l>
+               <l>Thus ſee how they conſpire, the people to fright</l>
+               <l>From coming to heed the Quakers Light.</l>
+               <l>Which to accompliſh, a legion of Lies</l>
+               <l>They joyn together, for to deviſe.</l>
+               <l>Well, let them alone, God ſhall ſhew</l>
+               <l>This applyes to them, but their due.</l>
+               <l>No other evidence but their Epiſtles,</l>
+               <l>They yield no grapes nor figs, being thorns and thiſtles.</l>
+               <l>Now ſuch as will not for their own eternal good,</l>
+               <l>Of them be warn'd, I am clear of their<g ref="char:punc">▪</g> blood.</l>
+            </lg>
+            <p>
+               <hi>Thus having ſomewhat exceeded what I intended, I ſhall conclude, adding ſome few worthy Sayings of ſome Antients: and in ſhort, anſwering to what may be objected, that here is no<g ref="char:EOLhyphen"/>thing</hi>
+               <pb n="21" facs="tcp:150180:12"/> 
+               <hi>in way of anſwer, to what</hi> John Faldoe <hi>hath written: I ſhall not diſſemble, in pleading inability, knowing a meaſure of that promiſe fulfilled, that the leaſt of the flock ſhall draw them out: only this I ſay, at preſent as to that, that ſo much of that nature is already written by</hi> William Penn, <hi>that more need not be yet ſaid, ſeeing it is untoucht by theſe Adverſaries: to which I refer all that would herein be ſatisfied: expecting to diſpatch a diſcourſe, wherein I ſhall prove theſe very men, I have hereby warned people of, to be in Doctrine and practice, the very floodgate, whereby Atheiſm and Prophaneſs, is break<g ref="char:EOLhyphen"/>ing in as a mighty torrent, upon this miſerable age: but God hath lift up his Standard, bleſſed be his holy Name, and that by the Teſtimony of the holy people called Quakers, as I ſhall hereafter more largly evidence.</hi> Farewel.</p>
+            <div type="answers">
+               <head>A few pertinent Notations out of <hi>Fox</hi>'s <hi>Acts and Monuments.</hi>
+               </head>
+               <p>288. G<g ref="char:V">Ʋ</g>lielmus de Amore, <hi>called a Maſter of</hi> Paris, <hi>and chief Ruler of that Univerſity, it's probable as Lerned as</hi> R. B. <hi>that wrote the</hi> Catholick Key,
+<hi>ſaith thus,</hi> True Prophets preach only for Gods Cauſe, health of Souls, and not tem<g ref="char:EOLhyphen"/>poral gain, and ſtudy not Eloquence and curious placing of words: nor do they force any to receive or hear them: nor do they endeavor to procure the indignation of Princes against ſuch as will not receive or hear them. <hi>Meaſure your ſelves by this, oh you Presbyterians and Independants.</hi>
+               </p>
+               <p>369. <hi>The Saints in that day complain thus;</hi> Lord, Men now make great Ston houſes full of glaſs windows, and call them thy Church. <hi>Is not</hi> Baalim <hi>in your mouths, Oh Profeſſors.</hi>
+               </p>
+               <p>358. <hi>A Learned man thus ſaith,</hi> The corrupt manners of the Christans do ſpring and grow out of the wickedneſs of the Spiritua<g ref="char:EOLhyphen"/>lity: <hi>the enmity of this age againſt the Innocent, is greatly at<g ref="char:EOLhyphen"/>tributable to ſuch as theſe Moniters.</hi>
+               </p>
+               <p>518. <hi>Lord</hi> Cohham, If the Curate be an Ideot, Idolater, or of vitious life, I ought to flee from him. <hi>Compare this with</hi> Bax<g ref="char:punc">▪</g> Cure. <hi>Alias,</hi> Balm for the Wounded Harlot.</p>
+               <p>
+                  <pb n="22" facs="tcp:150180:13"/> 501. Wickliffe, So long as a man is in deadly ſins, he is neither Biſhop nor Prelate in the houſe of God. <hi>Lyes and Slanders are deadly ſins, what then are theſe Moniters?</hi>
+               </p>
+               <p>239. The Saints in that day underſtood Chriſt and his Apoſtles to be against mens being called Maſters: <hi>I believe would not have called men Reverend Devines; I am ſure not ſach men as theſe, that endeavour to expugn Divinity out of the world.</hi>
+               </p>
+               <p>485. Every good man, though unlearned, is a Prieſt: that the Biſhop, the Simple man, the Prieſt, the Layman, are of Authority, according as they live; and that no man is bound to give bodily Re<g ref="char:EOLhyphen"/>verence to a Prelate.</p>
+               <p>872. The Saints of that day againſt Superstitious Burials.</p>
+               <p>863. One burned for not owning ungodly Priests Paſtors of the Church.</p>
+               <p>Cyprian, <hi>that lived in the</hi> 3d <hi>Century after Chriſt, who is applauded by the Learned; his Writings, they ſay, are next to the Scriptures: thus ſaith he,</hi> Women that advance themſelves by putting on Silks, and Purple, cannot put on Chriſt; they who co<g ref="char:EOLhyphen"/>lour their Locks with red and yellow, begin betime to prognoſticate what colour their hair ſhall be of in hell: they that love to paint themſelves otherwiſe than God Created them, may fear that at the Reſurrestion, their Creator will not know them.</p>
+               <p>John Knox, <hi>the famous</hi> Scotch <hi>Presbyter,</hi> Fol. 361. Hiſtory of the Reformation of the Church of <hi>England, thus ſaith to the Gal<g ref="char:EOLhyphen"/>lants of thoſe days,</hi> How pleaſant were this Life of yours, if it were to abide ever, and in the end you might paſs to Heaven in this gear: but fy upon that Knave, Death, that will come, whether we will or not; and when he hath laid on his Arreſt, then foul worms will be ſo buſie about this fleſh, be it never ſo fair and tender; and the ſilly Soul I fear will be ſo feeble, that it can neither carry with it Gold, Garniſh, Pearls nor Precious Stones.</p>
+               <p>
+                  <hi>Theſe are ſhort Collections very ſeaſonable to mind theſe Moniters and their Flocks of, who ſtink ſo noyſomly of Envy and Pride.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
